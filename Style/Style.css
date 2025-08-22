@@ -436,8 +436,8 @@ html::-webkit-scrollbar-corner {
   top: 0%;
 }
 .big-container .map .the-dote .One-dote:nth-child(2) {
-  left: 41.2%;
-  top: 71.1%;
+  left: 41.4%;
+  top: 70.6%;
 }
 .big-container .map .the-dote #dote-carabane {
   left: 28%;
@@ -1007,7 +1007,6 @@ html::-webkit-scrollbar-corner {
   z-index: 22;
   display: flex;
   z-index: 1;
-  background-image: url("./Images/Zig-Carte.png");
   background-size: 100%;
   background-position: center;
 }/*# sourceMappingURL=Style.css.map */

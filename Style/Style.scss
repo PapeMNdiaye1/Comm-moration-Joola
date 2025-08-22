@@ -516,8 +516,9 @@ html {
       }
 
       .One-dote:nth-child(2) {
-        left: 41.2%;
-        top: 71.1%;
+        left: 41.4%;
+        top: 70.6%;
+        // background-color: #f1f1f1;
       }
 
       #dote-carabane {
@@ -1051,6 +1052,7 @@ html {
       #Ziguinchor-Card {
         left: 51.2%;
         top: 50%;
+
         z-index: 60;
       }
 
@@ -1196,7 +1198,7 @@ html {
         // background-color: rgba($color: #f1f1f1, $alpha: .5);
         display: flex;
         z-index: 1;
-        background-image: url("./Images/Zig-Carte.png");
+        // background-image: url("./Images/Zig-Carte.png");
         // opacity: .9;
         background-size: 100%;
         background-position: center;
