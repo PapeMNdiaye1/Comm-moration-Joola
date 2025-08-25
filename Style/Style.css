@@ -532,12 +532,13 @@ html::-webkit-scrollbar-corner {
   top: 0.8%;
 }
 .big-container .map .the-dote #dote-CimetièreSaintLazareDeBéthanie div {
-  top: -103%;
-  left: -290%;
+  top: -6%;
+  left: -330%;
 }
 .big-container .map .the-dote #dote-CimetièreSaintLazareDeBéthanie div::after {
   left: calc(90% - 0.5em);
   top: 20%;
+  opacity: 0;
 }
 .big-container .map .the-dote #dote-CimetièreDeYoff {
   left: 5.5%;
@@ -556,8 +557,8 @@ html::-webkit-scrollbar-corner {
   top: -0.1%;
 }
 .big-container .map .the-dote #dote-UCAD div {
-  top: -6%;
-  left: -350%;
+  top: 16%;
+  left: -330%;
 }
 .big-container .map .the-dote #dote-UCAD div::after {
   left: calc(90% - 0.5em);

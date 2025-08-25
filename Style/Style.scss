@@ -633,12 +633,13 @@ html {
         top: 0.8%;
 
         div {
-          top: -103%;
-          left: -290%;
+          top: -06%;
+          left: -330%;
 
           &::after {
             left: calc(90% - 0.5em);
             top: 20%;
+            opacity: 0;
           }
         }
       }
@@ -663,8 +664,8 @@ html {
         top: -0.1%;
 
         div {
-          top: -06%;
-          left: -350%;
+          top: 16%;
+          left: -330%;
 
           &::after {
             left: calc(90% - 0.5em);
